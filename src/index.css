@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App{
+  background: #49657B;
+  margin: 20px auto;
+  width: 100%;
+  color: #eee;
+  text-align: center;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+}
+
+.data{
+  padding: 10px;
+  text-align: center;
+}
+
+input[type="text"]{
+  width: 100px;
+  align-self: auto;
+}
